@@ -1,5 +1,7 @@
+Linux Version: [Sober Linux client](https://github.com/vinegarhq/sober).
+
 > [!WARNING]
-> Will not work if you have bloxstrap installed.
+> Will not be updated.
 
 > [!NOTE]
 > If you find our repository useful don't forget to star!
