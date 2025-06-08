@@ -1,4 +1,4 @@
-Linux Version: [Sober Linux fflag editor](https://github.com/vinegarhq/sober).
+Linux Version: [Sober Linux fflag editor](https://github.com/Teemsploit/SoberFFlagEditor).
 
 > [!WARNING]
 > Will not be updated.
